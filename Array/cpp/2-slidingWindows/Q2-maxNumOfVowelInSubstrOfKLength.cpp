@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#include <climits>
+// #include <climits>
 #include <string> // strlen
 #include <cctype> //tolowercase
                   /*
@@ -65,3 +65,5 @@ int maxVowels(string s, int k)
     }
     return maxSum;
 }
+
+int main() {}
